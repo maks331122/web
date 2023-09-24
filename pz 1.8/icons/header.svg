@@ -1,0 +1,11 @@
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 15" width="31" height="15">
+                            <defs>
+                                <image width="31" height="15" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAPAQMAAAAmtobhAAAAAXNSR0IB2cksfwAAAAZQTFRFYGBuAAAA71hB6AAAAAJ0Uk5T/wDltzBKAAAAG0lEQVR4nGNgAIH/////w00wMOKThShhYPwHAEm1MsJ1kPhLAAAAAElFTkSuQmCC"/>
+                            </defs>
+                            <style>
+                                tspan { white-space:pre }
+                            </style>
+                            <g id="header">
+                                <use id="menu" href="#img1" x="0" y="0" />
+                            </g>
+                        </svg>
